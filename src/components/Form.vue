@@ -13,7 +13,7 @@
         </div>
         <button @click="count++">Add 1</button>
         <div>
-            Value of Count : {{count}}
+            Change Something of Count : {{count}}
         </div>
     </div>
 </template>
